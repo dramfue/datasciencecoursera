@@ -1,2 +1,2 @@
 # README
-# Repo for Data Scientist Toolbox course.
+## Repo for Data Scientist Toolbox course.
